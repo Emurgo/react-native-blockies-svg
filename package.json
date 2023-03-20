@@ -5,8 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.0.0",
-    "react-native": "^0.49.3",
     "react-native-svg": "13.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.0"
   }
 }
