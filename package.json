@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react-native-svg": "^7.2.0"
+    "react-native-svg": "13.8.0"
   },
   "peerDependencies": {
     "react": "^16.8.6",
